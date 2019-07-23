@@ -1,5 +1,5 @@
 {
-  "name": "skrfx",
+  "name": "@skrfont/skrfx",
   "version": "1.0.0",
   "description": "状态管理解决方案",
   "main": "lib/index.js",
